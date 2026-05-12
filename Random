@@ -1,0 +1,64 @@
+import random
+import shutil
+from pathlib import Path
+
+# =========================
+# CONFIGURACION
+# =========================
+
+# Carpeta donde estan las imagenes
+IMAGES_DIR = Path(r"D:\no_damage_ext\no_damage\images")
+
+# Carpeta donde estan los labels
+LABELS_DIR = Path(r"D:\no_damage_ext\no_damage\annotations")
+
+# Carpeta de salida
+OUTPUT_DIR = Path(r"D:\Data_no_damage")
+
+# Numero de imagenes aleatorias
+NUM_IMAGES = 50
+
+# Extensiones validas
+IMAGE_EXTENSIONS = [".jpg", ".jpeg", ".png"]
+
+# =========================
+# CREAR CARPETAS DESTINO
+# =========================
+
+output_images = OUTPUT_DIR / "images"
+output_labels = OUTPUT_DIR / "labels"
+
+output_images.mkdir(parents=True, exist_ok=True)
+output_labels.mkdir(parents=True, exist_ok=True)
+
+# =========================
+# OBTENER IMAGENES
+# =========================
+
+all_images = []
+
+for ext in IMAGE_EXTENSIONS:
+    all_images.extend(IMAGES_DIR.glob(f"*{ext}"))
+
+if len(all_images) < NUM_IMAGES:
+    raise ValueError(f"Solo hay {len(all_images)} imagenes disponibles.")
+
+selected_images = random.sample(all_images, NUM_IMAGES)
+
+# =========================
+# COPIAR IMAGENES Y LABELS
+# =========================
+
+for image_path in selected_images:
+    image_name = image_path.name
+    stem = image_path.stem
+    label_path = LABELS_DIR / f"{stem}.xml"
+
+    shutil.copy2(image_path, output_images / image_name)
+
+    if label_path.exists():
+        shutil.copy2(label_path, output_labels / label_path.name)
+    else:
+        print(f"[WARNING] No existe label para: {image_name}")
+
+print(f"\nOK: Se copiaron {NUM_IMAGES} imagenes aleatorias a '{OUTPUT_DIR}'")
