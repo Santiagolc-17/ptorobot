@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/336fd2cf30f632023858e0a82494cef3.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>2896</width>
+    <height>1944</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC beam" type="polygon">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>6</xmin>
+      <ymin>449</ymin>
+      <xmax>2756</xmax>
+      <ymax>1617</ymax>
+    </bndbox>
+    <polygon>
+      <x1>21</x1>
+      <y1>449</y1>
+      <x2>1971</x2>
+      <y2>978</y2>
+      <x3>2512</x3>
+      <y3>598</y3>
+      <x4>2756</x4>
+      <y4>1270</y4>
+      <x5>2144</x5>
+      <y5>1617</y5>
+      <x6>6</x6>
+      <y6>1073</y6>
+    </polygon>
+  </object>
+  <object element="RC beam" type="polygon">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>538</ymin>
+      <xmax>2069</xmax>
+      <ymax>1507</ymax>
+    </bndbox>
+    <polygon>
+      <x1>2069</x1>
+      <y1>1442</y1>
+      <x2>62</x2>
+      <y2>871</y2>
+      <x3>137</x3>
+      <y3>547</y3>
+      <x4>33</x4>
+      <y4>538</y4>
+      <x5>0</x5>
+      <y5>862</y5>
+      <x6>9</x6>
+      <y6>1002</y6>
+      <x7>1956</x7>
+      <y7>1507</y7>
+    </polygon>
+  </object>
+</annotation>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/7215a705f7a546b2bb2b5f2d937a3a81.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>GL-AEDES</structureType>
+  <size>
+    <width>2816</width>
+    <height>2112</height>
+    <depth>3</depth>
+  </size>
+  <object element="Infill" type="polygon">
+    <name damage="Masonry spalling">Spalling</name>
+    <bndbox>
+      <xmin>2341</xmin>
+      <ymin>29</ymin>
+      <xmax>2631</xmax>
+      <ymax>579</ymax>
+    </bndbox>
+    <polygon>
+      <x1>2431</x1>
+      <y1>29</y1>
+      <x2>2631</x2>
+      <y2>58</y2>
+      <x3>2526</x3>
+      <y3>579</y3>
+      <x4>2341</x4>
+      <y4>521</y4>
+    </polygon>
+  </object>
+  <object element="Infill" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>348</xmin>
+      <ymin>1223</ymin>
+      <xmax>1197</xmax>
+      <ymax>2103</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1086</x1>
+      <y1>1237</y1>
+      <x2>837</x2>
+      <y2>1567</y2>
+      <x3>571</x3>
+      <y3>1906</y3>
+      <x4>348</x4>
+      <y4>2077</y4>
+      <x5>464</x5>
+      <y5>2103</y5>
+      <x6>739</x6>
+      <y6>1901</y6>
+      <x7>942</x7>
+      <y7>1625</y7>
+      <x8>1197</x8>
+      <y8>1223</y8>
+    </polygon>
+  </object>
+</annotation>

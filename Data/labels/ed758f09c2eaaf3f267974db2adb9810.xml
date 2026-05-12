@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/ed758f09c2eaaf3f267974db2adb9810.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>GL-AEDES</structureType>
+  <size>
+    <width>3264</width>
+    <height>2448</height>
+    <depth>3</depth>
+  </size>
+  <object element="Infill" type="rect">
+    <name damage="Partial/full collapse">Other damage/mechanism</name>
+    <bndbox>
+      <xmin>285</xmin>
+      <ymin>168</ymin>
+      <xmax>2481</xmax>
+      <ymax>2438</ymax>
+    </bndbox>
+  </object>
+</annotation>

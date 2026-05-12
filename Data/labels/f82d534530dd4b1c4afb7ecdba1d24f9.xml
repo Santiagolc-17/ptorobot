@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/f82d534530dd4b1c4afb7ecdba1d24f9.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>GL-AEDES</structureType>
+  <size>
+    <width>4608</width>
+    <height>3456</height>
+    <depth>3</depth>
+  </size>
+  <object element="Plaster" type="polygon">
+    <name damage="Non structural damage">Spalling</name>
+    <bndbox>
+      <xmin>370</xmin>
+      <ymin>1131</ymin>
+      <xmax>1285</xmax>
+      <ymax>1230</ymax>
+    </bndbox>
+    <polygon>
+      <x1>370</x1>
+      <y1>1230</y1>
+      <x2>1285</x2>
+      <y2>1183</y2>
+      <x3>1261</x3>
+      <y3>1131</y3>
+      <x4>396</x4>
+      <y4>1176</y4>
+    </polygon>
+  </object>
+</annotation>

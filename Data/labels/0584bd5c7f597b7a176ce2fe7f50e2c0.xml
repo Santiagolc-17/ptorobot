@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/0584bd5c7f597b7a176ce2fe7f50e2c0.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>4288</width>
+    <height>2848</height>
+    <depth>3</depth>
+  </size>
+  <object element="Floor slab" type="polygon">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>1773</xmin>
+      <ymin>2105</ymin>
+      <xmax>2363</xmax>
+      <ymax>2287</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1784</x1>
+      <y1>2105</y1>
+      <x2>1773</x2>
+      <y2>2156</y2>
+      <x3>1968</x3>
+      <y3>2225</y3>
+      <x4>2043</x4>
+      <y4>2280</y4>
+      <x5>2107</x5>
+      <y5>2287</y5>
+      <x6>2225</x6>
+      <y6>2273</y6>
+      <x7>2363</x7>
+      <y7>2188</y7>
+    </polygon>
+  </object>
+  <object element="Masonry pier" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>1490</xmin>
+      <ymin>1462</ymin>
+      <xmax>1825</xmax>
+      <ymax>1651</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1825</x1>
+      <y1>1509</y1>
+      <x2>1760</x2>
+      <y2>1547</y2>
+      <x3>1616</x3>
+      <y3>1651</y3>
+      <x4>1490</x4>
+      <y4>1626</y4>
+      <x5>1573</x5>
+      <y5>1529</y5>
+      <x6>1726</x6>
+      <y6>1491</y6>
+      <x7>1807</x7>
+      <y7>1462</y7>
+    </polygon>
+  </object>
+  <object element="Masonry pier" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>747</xmin>
+      <ymin>1279</ymin>
+      <xmax>1193</xmax>
+      <ymax>1514</ymax>
+    </bndbox>
+    <polygon>
+      <x1>747</x1>
+      <y1>1326</y1>
+      <x2>814</x2>
+      <y2>1321</y2>
+      <x3>893</x3>
+      <y3>1353</y3>
+      <x4>965</x4>
+      <y4>1437</y4>
+      <x5>1023</x5>
+      <y5>1502</y5>
+      <x6>1085</x6>
+      <y6>1497</y6>
+      <x7>1192</x7>
+      <y7>1514</y7>
+      <x8>1193</x8>
+      <y8>1462</y8>
+      <x9>1074</x9>
+      <y9>1450</y9>
+      <x10>986</x10>
+      <y10>1359</y10>
+      <x11>862</x11>
+      <y11>1286</y11>
+      <x12>755</x12>
+      <y12>1279</y12>
+    </polygon>
+  </object>
+</annotation>

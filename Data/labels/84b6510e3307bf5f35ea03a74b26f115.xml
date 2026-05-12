@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/84b6510e3307bf5f35ea03a74b26f115.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>4272</width>
+    <height>2848</height>
+    <depth>3</depth>
+  </size>
+  <object element="Masonry wall" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>1550</xmin>
+      <ymin>827</ymin>
+      <xmax>1968</xmax>
+      <ymax>1262</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Flexural/rocking crack">Crack</name>
+    <bndbox>
+      <xmin>2006</xmin>
+      <ymin>1318</ymin>
+      <xmax>2291</xmax>
+      <ymax>1864</ymax>
+    </bndbox>
+  </object>
+</annotation>
