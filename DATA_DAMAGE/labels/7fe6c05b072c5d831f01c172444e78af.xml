@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/7fe6c05b072c5d831f01c172444e78af.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>CES-ADC_CHURCH</structureType>
+  <size>
+    <width>4272</width>
+    <height>2848</height>
+    <depth>3</depth>
+  </size>
+  <object element="Structure" type="rect">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>1209</xmin>
+      <ymin>937</ymin>
+      <xmax>4053</xmax>
+      <ymax>2252</ymax>
+    </bndbox>
+  </object>
+</annotation>

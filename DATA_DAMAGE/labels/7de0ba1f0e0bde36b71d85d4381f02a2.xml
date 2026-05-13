@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/7de0ba1f0e0bde36b71d85d4381f02a2.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>BRIDGE</structureType>
+  <size>
+    <width>4752</width>
+    <height>3168</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC Deck/slab" type="polygon">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>777</xmin>
+      <ymin>858</ymin>
+      <xmax>2376</xmax>
+      <ymax>1552</ymax>
+    </bndbox>
+    <polygon>
+      <x1>777</x1>
+      <y1>930</y1>
+      <x2>2376</x2>
+      <y2>1552</y2>
+      <x3>2376</x3>
+      <y3>1521</y3>
+      <x4>787</x4>
+      <y4>858</y4>
+    </polygon>
+  </object>
+  <object element="RC beam" type="polygon">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>705</xmin>
+      <ymin>924</ymin>
+      <xmax>1496</xmax>
+      <ymax>1351</ymax>
+    </bndbox>
+    <polygon>
+      <x1>705</x1>
+      <y1>1072</y1>
+      <x2>876</x2>
+      <y2>1258</y2>
+      <x3>973</x3>
+      <y3>1269</y3>
+      <x4>1033</x4>
+      <y4>1225</y4>
+      <x5>1184</x5>
+      <y5>1234</y5>
+      <x6>1401</x6>
+      <y6>1296</y6>
+      <x7>1494</x7>
+      <y7>1351</y7>
+      <x8>1496</x8>
+      <y8>1196</y8>
+      <x9>769</x9>
+      <y9>924</y9>
+    </polygon>
+  </object>
+  <object element="RC beam" type="polygon">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>1963</xmin>
+      <ymin>1395</ymin>
+      <xmax>2009</xmax>
+      <ymax>1475</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1963</x1>
+      <y1>1459</y1>
+      <x2>2005</x2>
+      <y2>1475</y2>
+      <x3>2009</x3>
+      <y3>1413</y3>
+      <x4>1967</x4>
+      <y4>1395</y4>
+    </polygon>
+  </object>
+  <object element="RC beam" type="polygon">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>2122</xmin>
+      <ymin>1451</ymin>
+      <xmax>2174</xmax>
+      <ymax>1513</ymax>
+    </bndbox>
+    <polygon>
+      <x1>2122</x1>
+      <y1>1498</y1>
+      <x2>2174</x2>
+      <y2>1513</y2>
+      <x3>2170</x3>
+      <y3>1467</y3>
+      <x4>2128</x4>
+      <y4>1451</y4>
+    </polygon>
+  </object>
+  <object element="RC pier" type="rect">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>521</xmin>
+      <ymin>1281</ymin>
+      <xmax>845</xmax>
+      <ymax>1670</ymax>
+    </bndbox>
+  </object>
+  <object element="RC pier" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>703</xmin>
+      <ymin>1273</ymin>
+      <xmax>1019</xmax>
+      <ymax>1736</ymax>
+    </bndbox>
+  </object>
+  <object element="RC beam" type="polygon">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>870</xmin>
+      <ymin>996</ymin>
+      <xmax>1447</xmax>
+      <ymax>1311</ymax>
+    </bndbox>
+    <polygon>
+      <x1>893</x1>
+      <y1>996</y1>
+      <x2>1447</x2>
+      <y2>1190</y2>
+      <x3>1429</x3>
+      <y3>1311</y3>
+      <x4>1062</x4>
+      <y4>1211</y4>
+      <x5>978</x5>
+      <y5>1263</y5>
+      <x6>870</x6>
+      <y6>1243</y6>
+    </polygon>
+  </object>
+  <object element="RC Deck/slab" type="polygon">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>843</xmin>
+      <ymin>862</ymin>
+      <xmax>1699</xmax>
+      <ymax>1242</ymax>
+    </bndbox>
+    <polygon>
+      <x1>861</x1>
+      <y1>862</y1>
+      <x2>1699</x2>
+      <y2>1222</y2>
+      <x3>1692</x3>
+      <y3>1242</y3>
+      <x4>843</x4>
+      <y4>886</y4>
+    </polygon>
+  </object>
+  <object element="RC pier" type="rect">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>1327</xmin>
+      <ymin>1430</ymin>
+      <xmax>1538</xmax>
+      <ymax>1666</ymax>
+    </bndbox>
+  </object>
+</annotation>

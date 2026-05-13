@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/7c7a4ed399ce6afc8fbb49336c8a4808.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>3264</width>
+    <height>2448</height>
+    <depth>3</depth>
+  </size>
+  <object element="Infill" type="rect">
+    <name damage="Partial/full collapse">Other damage/mechanism</name>
+    <bndbox>
+      <xmin>9</xmin>
+      <ymin>18</ymin>
+      <xmax>3201</xmax>
+      <ymax>2418</ymax>
+    </bndbox>
+  </object>
+</annotation>

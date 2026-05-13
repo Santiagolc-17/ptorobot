@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/2bf0f3f3d84d3faaf74f166e54eb6fe1.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>2592</width>
+    <height>1944</height>
+    <depth>3</depth>
+  </size>
+  <object element="Masonry pier" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>3</xmin>
+      <ymin>573</ymin>
+      <xmax>123</xmax>
+      <ymax>1384</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry pier" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>776</xmin>
+      <ymin>301</ymin>
+      <xmax>1837</xmax>
+      <ymax>1317</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry pier" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>2171</xmin>
+      <ymin>472</ymin>
+      <xmax>2526</xmax>
+      <ymax>1136</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry pier" type="polygon">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>442</xmin>
+      <ymin>1382</ymin>
+      <xmax>2587</xmax>
+      <ymax>1703</ymax>
+    </bndbox>
+    <polygon>
+      <x1>651</x1>
+      <y1>1382</y1>
+      <x2>442</x2>
+      <y2>1481</y2>
+      <x3>935</x3>
+      <y3>1696</y3>
+      <x4>1623</x4>
+      <y4>1703</y4>
+      <x5>2241</x5>
+      <y5>1670</y5>
+      <x6>2585</x6>
+      <y6>1599</y6>
+      <x7>2587</x7>
+      <y7>1399</y7>
+    </polygon>
+  </object>
+  <object element="Masonry pier" type="rect">
+    <name damage="Masonry spalling">Spalling</name>
+    <bndbox>
+      <xmin>776</xmin>
+      <ymin>643</ymin>
+      <xmax>1251</xmax>
+      <ymax>1201</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry pier" type="rect">
+    <name damage="Masonry spalling">Spalling</name>
+    <bndbox>
+      <xmin>1401</xmin>
+      <ymin>761</ymin>
+      <xmax>1905</xmax>
+      <ymax>1304</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry pier" type="rect">
+    <name damage="Masonry spalling">Spalling</name>
+    <bndbox>
+      <xmin>1154</xmin>
+      <ymin>200</ymin>
+      <xmax>1862</xmax>
+      <ymax>679</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry pier" type="rect">
+    <name damage="Masonry spalling">Spalling</name>
+    <bndbox>
+      <xmin>2202</xmin>
+      <ymin>575</ymin>
+      <xmax>2584</xmax>
+      <ymax>915</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry pier" type="polygon">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>483</xmin>
+      <ymin>1629</ymin>
+      <xmax>568</xmax>
+      <ymax>1676</ymax>
+    </bndbox>
+    <polygon>
+      <x1>544</x1>
+      <y1>1629</y1>
+      <x2>568</x2>
+      <y2>1675</y2>
+      <x3>521</x3>
+      <y3>1676</y3>
+      <x4>483</x4>
+      <y4>1644</y4>
+      <x5>500</x5>
+      <y5>1629</y5>
+    </polygon>
+  </object>
+  <object element="Masonry pier" type="polygon">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>1827</xmin>
+      <ymin>1726</ymin>
+      <xmax>2020</xmax>
+      <ymax>1785</ymax>
+    </bndbox>
+    <polygon>
+      <x1>2020</x1>
+      <y1>1776</y1>
+      <x2>1860</x2>
+      <y2>1785</y2>
+      <x3>1827</x3>
+      <y3>1768</y3>
+      <x4>1834</x4>
+      <y4>1731</y4>
+      <x5>1884</x5>
+      <y5>1726</y5>
+      <x6>2020</x6>
+      <y6>1749</y6>
+    </polygon>
+  </object>
+  <object element="Masonry pier" type="polygon">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>1080</xmin>
+      <ymin>1715</ymin>
+      <xmax>1144</xmax>
+      <ymax>1745</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1132</x1>
+      <y1>1745</y1>
+      <x2>1080</x2>
+      <y2>1730</y2>
+      <x3>1114</x3>
+      <y3>1715</y3>
+      <x4>1144</x4>
+      <y4>1715</y4>
+    </polygon>
+  </object>
+  <object element="Masonry pier" type="polygon">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>1212</xmin>
+      <ymin>1702</ymin>
+      <xmax>1304</xmax>
+      <ymax>1741</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1251</x1>
+      <y1>1741</y1>
+      <x2>1304</x2>
+      <y2>1730</y2>
+      <x3>1298</x3>
+      <y3>1712</y3>
+      <x4>1271</x4>
+      <y4>1702</y4>
+      <x5>1212</x5>
+      <y5>1713</y5>
+    </polygon>
+  </object>
+</annotation>

@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/a9a1b99e98d15c461d5d5f5ad453e20b.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>GL-AEDES</structureType>
+  <size>
+    <width>2816</width>
+    <height>2112</height>
+    <depth>3</depth>
+  </size>
+  <object element="Infill" type="polygon">
+    <name damage="Partial/full collapse">Other damage/mechanism</name>
+    <bndbox>
+      <xmin>1046</xmin>
+      <ymin>224</ymin>
+      <xmax>2810</xmax>
+      <ymax>2108</ymax>
+    </bndbox>
+    <polygon>
+      <x1>2503</x1>
+      <y1>224</y1>
+      <x2>1862</x2>
+      <y2>421</y2>
+      <x3>1642</x3>
+      <y3>491</y3>
+      <x4>1800</x4>
+      <y4>989</y4>
+      <x5>1046</x5>
+      <y5>2105</y5>
+      <x6>2810</x6>
+      <y6>2108</y6>
+      <x7>2807</x7>
+      <y7>511</y7>
+    </polygon>
+  </object>
+  <object element="Infill" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>985</xmin>
+      <ymin>14</ymin>
+      <xmax>1802</xmax>
+      <ymax>539</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1040</x1>
+      <y1>14</y1>
+      <x2>1211</x2>
+      <y2>159</y2>
+      <x3>1573</x3>
+      <y3>371</y3>
+      <x4>1802</x4>
+      <y4>472</y4>
+      <x5>1747</x5>
+      <y5>539</y5>
+      <x6>1541</x6>
+      <y6>472</y6>
+      <x7>1014</x7>
+      <y7>165</y7>
+      <x8>985</x8>
+      <y8>110</y8>
+    </polygon>
+  </object>
+  <object element="Infill" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>23</xmin>
+      <ymin>265</ymin>
+      <xmax>374</xmax>
+      <ymax>1085</ymax>
+    </bndbox>
+    <polygon>
+      <x1>23</x1>
+      <y1>499</y1>
+      <x2>110</x2>
+      <y2>1085</y2>
+      <x3>374</x3>
+      <y3>705</y3>
+      <x4>327</x4>
+      <y4>265</y4>
+      <x5>136</x5>
+      <y5>277</y5>
+      <x6>143</x6>
+      <y6>480</y6>
+    </polygon>
+  </object>
+  <object element="Infill" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>76</xmin>
+      <ymin>1219</ymin>
+      <xmax>479</xmax>
+      <ymax>2102</ymax>
+    </bndbox>
+    <polygon>
+      <x1>76</x1>
+      <y1>1507</y1>
+      <x2>112</x2>
+      <y2>2094</y2>
+      <x3>479</x3>
+      <y3>2102</y3>
+      <x4>329</x4>
+      <y4>1221</y4>
+      <x5>250</x5>
+      <y5>1219</y5>
+    </polygon>
+  </object>
+</annotation>

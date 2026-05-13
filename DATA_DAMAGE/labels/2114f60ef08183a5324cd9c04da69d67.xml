@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/2114f60ef08183a5324cd9c04da69d67.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>BRIDGE</structureType>
+  <size>
+    <width>4272</width>
+    <height>2848</height>
+    <depth>3</depth>
+  </size>
+  <object element="Parapet" type="rect">
+    <name damage="Non structural damage">Non structural damage</name>
+    <bndbox>
+      <xmin>2585</xmin>
+      <ymin>458</ymin>
+      <xmax>3563</xmax>
+      <ymax>1110</ymax>
+    </bndbox>
+  </object>
+</annotation>

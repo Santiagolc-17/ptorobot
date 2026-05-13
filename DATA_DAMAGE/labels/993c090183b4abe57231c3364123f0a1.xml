@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/993c090183b4abe57231c3364123f0a1.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>BRIDGE</structureType>
+  <size>
+    <width>4224</width>
+    <height>3168</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC beam" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>1943</xmin>
+      <ymin>1259</ymin>
+      <xmax>2033</xmax>
+      <ymax>1301</ymax>
+    </bndbox>
+  </object>
+  <object element="RC joint" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>1483</xmin>
+      <ymin>867</ymin>
+      <xmax>1544</xmax>
+      <ymax>919</ymax>
+    </bndbox>
+  </object>
+</annotation>

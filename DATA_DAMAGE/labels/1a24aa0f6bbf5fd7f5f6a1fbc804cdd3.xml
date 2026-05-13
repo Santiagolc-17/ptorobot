@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/1a24aa0f6bbf5fd7f5f6a1fbc804cdd3.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>3648</width>
+    <height>2736</height>
+    <depth>3</depth>
+  </size>
+  <object element="Floor slab" type="rect">
+    <name damage="Detachment crack">Crack</name>
+    <bndbox>
+      <xmin>26</xmin>
+      <ymin>39</ymin>
+      <xmax>3555</xmax>
+      <ymax>2095</ymax>
+    </bndbox>
+  </object>
+</annotation>

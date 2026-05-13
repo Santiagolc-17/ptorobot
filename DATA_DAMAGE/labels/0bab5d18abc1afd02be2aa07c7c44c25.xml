@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/0bab5d18abc1afd02be2aa07c7c44c25.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>BRIDGE</structureType>
+  <size>
+    <width>2304</width>
+    <height>1728</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC Deck/slab" type="polygon">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>4</xmin>
+      <ymin>5</ymin>
+      <xmax>2299</xmax>
+      <ymax>692</ymax>
+    </bndbox>
+    <polygon>
+      <x1>7</x1>
+      <y1>463</y1>
+      <x2>1969</x2>
+      <y2>5</y2>
+      <x3>2295</x3>
+      <y3>5</y3>
+      <x4>2299</x4>
+      <y4>319</y4>
+      <x5>4</x5>
+      <y5>692</y5>
+    </polygon>
+  </object>
+  <object element="RC Deck/slab" type="polygon">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>46</xmin>
+      <ymin>4</ymin>
+      <xmax>1871</xmax>
+      <ymax>472</ymax>
+    </bndbox>
+    <polygon>
+      <x1>51</x1>
+      <y1>421</y1>
+      <x2>1858</x2>
+      <y2>4</y2>
+      <x3>1871</x3>
+      <y3>58</y3>
+      <x4>46</x4>
+      <y4>472</y4>
+    </polygon>
+  </object>
+  <object element="RC Deck/slab" type="polygon">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>11</xmin>
+      <ymin>18</ymin>
+      <xmax>2290</xmax>
+      <ymax>638</ymax>
+    </bndbox>
+    <polygon>
+      <x1>12</x1>
+      <y1>638</y1>
+      <x2>2290</x2>
+      <y2>201</y2>
+      <x3>2269</x3>
+      <y3>18</y3>
+      <x4>1957</x4>
+      <y4>25</y4>
+      <x5>11</x5>
+      <y5>469</y5>
+    </polygon>
+  </object>
+  <object element="RC Deck/slab" type="polygon">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>12</xmin>
+      <ymin>23</ymin>
+      <xmax>2258</xmax>
+      <ymax>629</ymax>
+    </bndbox>
+    <polygon>
+      <x1>2258</x1>
+      <y1>185</y1>
+      <x2>2237</x2>
+      <y2>23</y2>
+      <x3>1962</x3>
+      <y3>33</y3>
+      <x4>12</x4>
+      <y4>479</y4>
+      <x5>14</x5>
+      <y5>629</y5>
+    </polygon>
+  </object>
+  <object element="PSC beam" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>559</xmin>
+      <ymin>1094</ymin>
+      <xmax>934</xmax>
+      <ymax>1340</ymax>
+    </bndbox>
+  </object>
+  <object element="PSC beam" type="rect">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>565</xmin>
+      <ymin>1100</ymin>
+      <xmax>923</xmax>
+      <ymax>1336</ymax>
+    </bndbox>
+  </object>
+  <object element="PSC beam" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>227</xmin>
+      <ymin>1244</ymin>
+      <xmax>355</xmax>
+      <ymax>1333</ymax>
+    </bndbox>
+  </object>
+  <object element="PSC beam" type="rect">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>256</xmin>
+      <ymin>1248</ymin>
+      <xmax>331</xmax>
+      <ymax>1327</ymax>
+    </bndbox>
+  </object>
+  <object element="PSC beam" type="rect">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>213</xmin>
+      <ymin>565</ymin>
+      <xmax>1002</xmax>
+      <ymax>1122</ymax>
+    </bndbox>
+  </object>
+  <object element="RC Pier cap" type="polygon">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>5</xmin>
+      <ymin>1355</ymin>
+      <xmax>2108</xmax>
+      <ymax>1721</ymax>
+    </bndbox>
+    <polygon>
+      <x1>5</x1>
+      <y1>1376</y1>
+      <x2>624</x2>
+      <y2>1404</y2>
+      <x3>2077</x3>
+      <y3>1355</y3>
+      <x4>2108</x4>
+      <y4>1717</y4>
+      <x5>5</x5>
+      <y5>1721</y5>
+    </polygon>
+  </object>
+  <object element="RC Pier cap" type="polygon">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>28</xmin>
+      <ymin>1457</ymin>
+      <xmax>2052</xmax>
+      <ymax>1716</ymax>
+    </bndbox>
+    <polygon>
+      <x1>28</x1>
+      <y1>1478</y1>
+      <x2>592</x2>
+      <y2>1503</y2>
+      <x3>2038</x3>
+      <y3>1457</y3>
+      <x4>2052</x4>
+      <y4>1703</y4>
+      <x5>39</x5>
+      <y5>1716</y5>
+    </polygon>
+  </object>
+  <object element="RC Pier cap" type="polygon">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>551</xmin>
+      <ymin>1471</ymin>
+      <xmax>2006</xmax>
+      <ymax>1714</ymax>
+    </bndbox>
+    <polygon>
+      <x1>551</x1>
+      <y1>1524</y1>
+      <x2>2006</x2>
+      <y2>1471</y2>
+      <x3>2001</x3>
+      <y3>1695</y3>
+      <x4>562</x4>
+      <y4>1714</y4>
+    </polygon>
+  </object>
+</annotation>

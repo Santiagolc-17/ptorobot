@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/ebfc04a90633fef35a1a90d7f9247f04.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>CES-ADC_CHURCH</structureType>
+  <size>
+    <width>5376</width>
+    <height>3024</height>
+    <depth>3</depth>
+  </size>
+  <object element="Masonry wall" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>111</xmin>
+      <ymin>835</ymin>
+      <xmax>1571</xmax>
+      <ymax>2245</ymax>
+    </bndbox>
+  </object>
+  <object element="Structure" type="rect">
+    <name damage="Partial/full collapse">Other damage/mechanism</name>
+    <bndbox>
+      <xmin>1576</xmin>
+      <ymin>708</ymin>
+      <xmax>3855</xmax>
+      <ymax>2323</ymax>
+    </bndbox>
+  </object>
+  <object element="Structure" type="rect">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>4249</xmin>
+      <ymin>2024</ymin>
+      <xmax>5367</xmax>
+      <ymax>3003</ymax>
+    </bndbox>
+  </object>
+  <object element="Structure" type="polygon">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>594</xmin>
+      <ymin>1328</ymin>
+      <xmax>3827</xmax>
+      <ymax>2257</ymax>
+    </bndbox>
+    <polygon>
+      <x1>594</x1>
+      <y1>2257</y1>
+      <x2>602</x2>
+      <y2>2114</y2>
+      <x3>965</x3>
+      <y3>2073</y3>
+      <x4>1182</x4>
+      <y4>1916</y4>
+      <x5>1402</x5>
+      <y5>1765</y5>
+      <x6>1490</x6>
+      <y6>1750</y6>
+      <x7>1651</x7>
+      <y7>1534</y7>
+      <x8>2194</x8>
+      <y8>1347</y8>
+      <x9>2294</x9>
+      <y9>1328</y9>
+      <x10>2503</x10>
+      <y10>1347</y10>
+      <x11>2708</x11>
+      <y11>1387</y11>
+      <x12>2925</x12>
+      <y12>1519</y12>
+      <x13>3134</x13>
+      <y13>1486</y13>
+      <x14>3435</x14>
+      <y14>1681</y14>
+      <x15>3640</x15>
+      <y15>1908</y15>
+      <x16>3827</x16>
+      <y16>2136</y16>
+    </polygon>
+  </object>
+</annotation>

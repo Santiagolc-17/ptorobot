@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/63b2c32018d9a1b11a4ad33d95fb3c94.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>CES-ADC_CHURCH</structureType>
+  <size>
+    <width>3648</width>
+    <height>2736</height>
+    <depth>3</depth>
+  </size>
+  <object element="Vault" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>22</xmin>
+      <ymin>235</ymin>
+      <xmax>3118</xmax>
+      <ymax>2040</ymax>
+    </bndbox>
+  </object>
+</annotation>

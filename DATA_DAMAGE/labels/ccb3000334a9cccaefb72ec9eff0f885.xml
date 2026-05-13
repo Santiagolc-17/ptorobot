@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/ccb3000334a9cccaefb72ec9eff0f885.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>BRIDGE</structureType>
+  <size>
+    <width>4128</width>
+    <height>2322</height>
+    <depth>3</depth>
+  </size>
+  <object element="Curb" type="rect">
+    <name damage="Non structural damage">Non structural damage</name>
+    <bndbox>
+      <xmin>1509</xmin>
+      <ymin>1022</ymin>
+      <xmax>2289</xmax>
+      <ymax>1193</ymax>
+    </bndbox>
+  </object>
+</annotation>

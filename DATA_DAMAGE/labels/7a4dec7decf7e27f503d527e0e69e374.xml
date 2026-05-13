@@ -1,0 +1,357 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/7a4dec7decf7e27f503d527e0e69e374.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>2592</width>
+    <height>1944</height>
+    <depth>3</depth>
+  </size>
+  <object element="Masonry wall" type="rect">
+    <name damage="Flexural/rocking crack">Crack</name>
+    <bndbox>
+      <xmin>206</xmin>
+      <ymin>828</ymin>
+      <xmax>279</xmax>
+      <ymax>1060</ymax>
+    </bndbox>
+  </object>
+  <object element="Floor slab" type="rect">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>538</xmin>
+      <ymin>745</ymin>
+      <xmax>582</xmax>
+      <ymax>987</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Flexural/rocking crack">Crack</name>
+    <bndbox>
+      <xmin>2302</xmin>
+      <ymin>773</ymin>
+      <xmax>2355</xmax>
+      <ymax>1074</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>2033</xmin>
+      <ymin>957</ymin>
+      <xmax>2266</xmax>
+      <ymax>1198</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="polygon">
+    <name damage="Detachment crack">Crack</name>
+    <bndbox>
+      <xmin>2365</xmin>
+      <ymin>812</ymin>
+      <xmax>2454</xmax>
+      <ymax>1079</ymax>
+    </bndbox>
+    <polygon>
+      <x1>2365</x1>
+      <y1>858</y1>
+      <x2>2448</x2>
+      <y2>812</y2>
+      <x3>2454</x3>
+      <y3>852</y3>
+      <x4>2407</x4>
+      <y4>881</y4>
+      <x5>2418</x5>
+      <y5>1075</y5>
+      <x6>2381</x6>
+      <y6>1079</y6>
+    </polygon>
+  </object>
+  <object element="Floor slab" type="rect">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>1537</xmin>
+      <ymin>1487</ymin>
+      <xmax>1918</xmax>
+      <ymax>1604</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Sliding shear crack">Crack</name>
+    <bndbox>
+      <xmin>1964</xmin>
+      <ymin>792</ymin>
+      <xmax>2278</xmax>
+      <ymax>824</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Sliding shear crack">Crack</name>
+    <bndbox>
+      <xmin>643</xmin>
+      <ymin>807</ymin>
+      <xmax>1933</xmax>
+      <ymax>850</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Sliding shear crack">Crack</name>
+    <bndbox>
+      <xmin>251</xmin>
+      <ymin>833</ymin>
+      <xmax>534</xmax>
+      <ymax>856</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>329</xmin>
+      <ymin>758</ymin>
+      <xmax>530</xmax>
+      <ymax>999</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>850</xmin>
+      <ymin>1293</ymin>
+      <xmax>927</xmax>
+      <ymax>1353</ymax>
+    </bndbox>
+  </object>
+  <object element="Floor slab" type="rect">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>820</xmin>
+      <ymin>1474</ymin>
+      <xmax>947</xmax>
+      <ymax>1561</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>1318</xmin>
+      <ymin>521</ymin>
+      <xmax>1523</xmax>
+      <ymax>586</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>1111</xmin>
+      <ymin>524</ymin>
+      <xmax>1296</xmax>
+      <ymax>598</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="polygon">
+    <name damage="Sliding shear crack">Crack</name>
+    <bndbox>
+      <xmin>495</xmin>
+      <ymin>593</ymin>
+      <xmax>891</xmax>
+      <ymax>631</ymax>
+    </bndbox>
+    <polygon>
+      <x1>891</x1>
+      <y1>611</y1>
+      <x2>496</x2>
+      <y2>631</y2>
+      <x3>495</x3>
+      <y3>611</y3>
+      <x4>889</x4>
+      <y4>593</y4>
+    </polygon>
+  </object>
+  <object element="Masonry wall" type="polygon">
+    <name damage="Sliding shear crack">Crack</name>
+    <bndbox>
+      <xmin>605</xmin>
+      <ymin>629</ymin>
+      <xmax>1310</xmax>
+      <ymax>733</ymax>
+    </bndbox>
+    <polygon>
+      <x1>605</x1>
+      <y1>733</y1>
+      <x2>1161</x2>
+      <y2>716</y2>
+      <x3>1161</x3>
+      <y3>688</y3>
+      <x4>1310</x4>
+      <y4>682</y4>
+      <x5>1301</x5>
+      <y5>630</y5>
+      <x6>1251</x6>
+      <y6>629</y6>
+      <x7>1144</x7>
+      <y7>681</y7>
+      <x8>605</x8>
+      <y8>715</y8>
+    </polygon>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Sliding shear crack">Crack</name>
+    <bndbox>
+      <xmin>1272</xmin>
+      <ymin>673</ymin>
+      <xmax>1799</xmax>
+      <ymax>702</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>1973</xmin>
+      <ymin>637</ymin>
+      <xmax>2162</xmax>
+      <ymax>660</ymax>
+    </bndbox>
+  </object>
+  <object element="Floor slab" type="polygon">
+    <name damage="Detachment of tympanum">Other damage/mechanism</name>
+    <bndbox>
+      <xmin>223</xmin>
+      <ymin>350</ymin>
+      <xmax>2294</xmax>
+      <ymax>828</ymax>
+    </bndbox>
+    <polygon>
+      <x1>2270</x1>
+      <y1>716</y1>
+      <x2>2080</x2>
+      <y2>593</y2>
+      <x3>1879</x3>
+      <y3>502</y3>
+      <x4>1666</x4>
+      <y4>436</y4>
+      <x5>1476</x5>
+      <y5>399</y5>
+      <x6>1304</x6>
+      <y6>393</y6>
+      <x7>1214</x7>
+      <y7>396</y7>
+      <x8>987</x8>
+      <y8>420</y8>
+      <x9>812</x9>
+      <y9>466</y9>
+      <x10>632</x10>
+      <y10>550</y10>
+      <x11>445</x11>
+      <y11>655</y11>
+      <x12>337</x12>
+      <y12>735</y12>
+      <x13>257</x13>
+      <y13>828</y13>
+      <x14>223</x14>
+      <y14>815</y14>
+      <x15>381</x15>
+      <y15>657</y15>
+      <x16>659</x16>
+      <y16>487</y16>
+      <x17>900</x17>
+      <y17>396</y17>
+      <x18>1173</x18>
+      <y18>350</y18>
+      <x19>1427</x19>
+      <y19>355</y19>
+      <x20>1706</x20>
+      <y20>408</y20>
+      <x21>1913</x21>
+      <y21>477</y21>
+      <x22>2073</x22>
+      <y22>557</y22>
+      <x23>2180</x23>
+      <y23>623</y23>
+      <x24>2294</x24>
+      <y24>703</y24>
+    </polygon>
+  </object>
+  <object element="Masonry wall" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>1269</xmin>
+      <ymin>760</ymin>
+      <xmax>1633</xmax>
+      <ymax>803</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1633</x1>
+      <y1>760</y1>
+      <x2>1567</x2>
+      <y2>801</y2>
+      <x3>1271</x3>
+      <y3>803</y3>
+      <x4>1269</x4>
+      <y4>782</y4>
+    </polygon>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>939</xmin>
+      <ymin>748</ymin>
+      <xmax>1155</xmax>
+      <ymax>805</ymax>
+    </bndbox>
+  </object>
+  <object element="Floor slab" type="rect">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>892</xmin>
+      <ymin>516</ymin>
+      <xmax>1083</xmax>
+      <ymax>587</ymax>
+    </bndbox>
+  </object>
+  <object element="Floor slab" type="rect">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>1466</xmin>
+      <ymin>413</ymin>
+      <xmax>1600</xmax>
+      <ymax>467</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry wall" type="rect">
+    <name damage="Flexural/rocking crack">Crack</name>
+    <bndbox>
+      <xmin>1236</xmin>
+      <ymin>427</ymin>
+      <xmax>1279</xmax>
+      <ymax>482</ymax>
+    </bndbox>
+  </object>
+  <object element="Floor slab" type="rect">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>1317</xmin>
+      <ymin>488</ymin>
+      <xmax>1519</xmax>
+      <ymax>525</ymax>
+    </bndbox>
+  </object>
+  <object element="Floor slab" type="rect">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>1117</xmin>
+      <ymin>494</ymin>
+      <xmax>1290</xmax>
+      <ymax>525</ymax>
+    </bndbox>
+  </object>
+  <object element="Floor slab" type="rect">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>803</xmin>
+      <ymin>521</ymin>
+      <xmax>868</xmax>
+      <ymax>575</ymax>
+    </bndbox>
+  </object>
+</annotation>

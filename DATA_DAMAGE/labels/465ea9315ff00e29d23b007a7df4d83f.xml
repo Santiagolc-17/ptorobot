@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/465ea9315ff00e29d23b007a7df4d83f.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>BRIDGE</structureType>
+  <size>
+    <width>4224</width>
+    <height>3168</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC abutment" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>1874</xmin>
+      <ymin>1446</ymin>
+      <xmax>2011</xmax>
+      <ymax>1614</ymax>
+    </bndbox>
+    <polygon>
+      <x1>2002</x1>
+      <y1>1446</y1>
+      <x2>2011</x2>
+      <y2>1543</y2>
+      <x3>1902</x3>
+      <y3>1614</y3>
+      <x4>1874</x4>
+      <y4>1614</y4>
+      <x5>1886</x5>
+      <y5>1521</y5>
+      <x6>1987</x6>
+      <y6>1446</y6>
+    </polygon>
+  </object>
+</annotation>

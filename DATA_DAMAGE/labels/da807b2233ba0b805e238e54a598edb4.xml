@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/da807b2233ba0b805e238e54a598edb4.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>3264</width>
+    <height>2448</height>
+    <depth>3</depth>
+  </size>
+  <object element="Infill" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>269</xmin>
+      <ymin>426</ymin>
+      <xmax>3261</xmax>
+      <ymax>2434</ymax>
+    </bndbox>
+  </object>
+</annotation>

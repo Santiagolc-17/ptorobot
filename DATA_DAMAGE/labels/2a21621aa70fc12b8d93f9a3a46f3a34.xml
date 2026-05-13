@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/2a21621aa70fc12b8d93f9a3a46f3a34.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>BRIDGE</structureType>
+  <size>
+    <width>5472</width>
+    <height>3648</height>
+    <depth>3</depth>
+  </size>
+  <object element="Plaster" type="rect">
+    <name damage="Non structural damage">Spalling</name>
+    <bndbox>
+      <xmin>985</xmin>
+      <ymin>2428</ymin>
+      <xmax>2201</xmax>
+      <ymax>3000</ymax>
+    </bndbox>
+  </object>
+  <object element="RC arch" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>3972</xmin>
+      <ymin>2681</ymin>
+      <xmax>4207</xmax>
+      <ymax>2805</ymax>
+    </bndbox>
+  </object>
+  <object element="RC arch" type="rect">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>3981</xmin>
+      <ymin>2694</ymin>
+      <xmax>4194</xmax>
+      <ymax>2792</ymax>
+    </bndbox>
+  </object>
+  <object element="RC arch" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>3756</xmin>
+      <ymin>3056</ymin>
+      <xmax>3941</xmax>
+      <ymax>3219</ymax>
+    </bndbox>
+  </object>
+  <object element="RC arch" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>2569</xmin>
+      <ymin>3609</ymin>
+      <xmax>2616</xmax>
+      <ymax>3644</ymax>
+    </bndbox>
+  </object>
+  <object element="RC arch" type="rect">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>2581</xmin>
+      <ymin>3615</ymin>
+      <xmax>2602</xmax>
+      <ymax>3640</ymax>
+    </bndbox>
+  </object>
+  <object element="RC Deck/slab" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>1865</ymin>
+      <xmax>1013</xmax>
+      <ymax>1967</ymax>
+    </bndbox>
+  </object>
+  <object element="RC Deck/slab" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>1154</xmin>
+      <ymin>1839</ymin>
+      <xmax>2095</xmax>
+      <ymax>1922</ymax>
+    </bndbox>
+  </object>
+  <object element="RC Deck/slab" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>2103</xmin>
+      <ymin>1848</ymin>
+      <xmax>2751</xmax>
+      <ymax>1946</ymax>
+    </bndbox>
+  </object>
+  <object element="RC Deck/slab" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>3057</xmin>
+      <ymin>1847</ymin>
+      <xmax>4154</xmax>
+      <ymax>1934</ymax>
+    </bndbox>
+  </object>
+  <object element="RC Deck/slab" type="rect">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>1163</xmin>
+      <ymin>1843</ymin>
+      <xmax>2038</xmax>
+      <ymax>1901</ymax>
+    </bndbox>
+  </object>
+  <object element="RC Deck/slab" type="rect">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>2180</xmin>
+      <ymin>1903</ymin>
+      <xmax>2700</xmax>
+      <ymax>1944</ymax>
+    </bndbox>
+  </object>
+  <object element="RC Deck/slab" type="polygon">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>2797</xmin>
+      <ymin>2029</ymin>
+      <xmax>2959</xmax>
+      <ymax>2364</ymax>
+    </bndbox>
+    <polygon>
+      <x1>2805</x1>
+      <y1>2029</y1>
+      <x2>2797</x2>
+      <y2>2232</y2>
+      <x3>2910</x3>
+      <y3>2364</y3>
+      <x4>2948</x4>
+      <y4>2263</y4>
+      <x5>2959</x5>
+      <y5>2146</y5>
+    </polygon>
+  </object>
+</annotation>

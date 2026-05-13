@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/3ae5dfc25a6dd145b3ed208d12340cd5.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>4224</width>
+    <height>3168</height>
+    <depth>3</depth>
+  </size>
+  <object element="Masonry wall" type="rect">
+    <name damage="Partial/full collapse">Other damage/mechanism</name>
+    <bndbox>
+      <xmin>773</xmin>
+      <ymin>227</ymin>
+      <xmax>3382</xmax>
+      <ymax>2092</ymax>
+    </bndbox>
+  </object>
+</annotation>

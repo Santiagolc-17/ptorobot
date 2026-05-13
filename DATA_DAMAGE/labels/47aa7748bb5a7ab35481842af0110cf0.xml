@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/47aa7748bb5a7ab35481842af0110cf0.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>2160</width>
+    <height>3840</height>
+    <depth>3</depth>
+  </size>
+  <object element="Infill" type="rect">
+    <name damage="Out-of-plane mechanism">Other damage/mechanism</name>
+    <bndbox>
+      <xmin>6</xmin>
+      <ymin>763</ymin>
+      <xmax>488</xmax>
+      <ymax>2304</ymax>
+    </bndbox>
+  </object>
+  <object element="Infill" type="rect">
+    <name damage="Detachment crack">Crack</name>
+    <bndbox>
+      <xmin>32</xmin>
+      <ymin>807</ymin>
+      <xmax>470</xmax>
+      <ymax>2294</ymax>
+    </bndbox>
+  </object>
+</annotation>

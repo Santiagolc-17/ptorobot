@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/1d1d8cdd52ec86456259d07044d8ed73.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>BRIDGE</structureType>
+  <size>
+    <width>2448</width>
+    <height>3264</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC abutment" type="rect">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>524</xmin>
+      <ymin>975</ymin>
+      <xmax>1458</xmax>
+      <ymax>1871</ymax>
+    </bndbox>
+  </object>
+</annotation>

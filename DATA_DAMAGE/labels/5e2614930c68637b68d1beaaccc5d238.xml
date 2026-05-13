@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/5e2614930c68637b68d1beaaccc5d238.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>GL-AEDES</structureType>
+  <size>
+    <width>3264</width>
+    <height>2448</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC column" type="polygon">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>1539</xmin>
+      <ymin>901</ymin>
+      <xmax>1710</xmax>
+      <ymax>1310</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1539</x1>
+      <y1>1300</y1>
+      <x2>1588</x2>
+      <y2>1310</y2>
+      <x3>1710</x3>
+      <y3>920</y3>
+      <x4>1658</x4>
+      <y4>901</y4>
+    </polygon>
+  </object>
+  <object element="RC column" type="polygon">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>1514</xmin>
+      <ymin>695</ymin>
+      <xmax>2441</xmax>
+      <ymax>1338</ymax>
+    </bndbox>
+    <polygon>
+      <x1>2441</x1>
+      <y1>695</y1>
+      <x2>2283</x2>
+      <y2>875</y2>
+      <x3>2250</x3>
+      <y3>992</y3>
+      <x4>1889</x4>
+      <y4>997</y4>
+      <x5>1770</x5>
+      <y5>1303</y5>
+      <x6>1622</x6>
+      <y6>1315</y6>
+      <x7>1580</x7>
+      <y7>1338</y7>
+      <x8>1514</x8>
+      <y8>1291</y8>
+      <x9>1619</x9>
+      <y9>845</y9>
+    </polygon>
+  </object>
+  <object element="Infill" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>124</xmin>
+      <ymin>583</ymin>
+      <xmax>462</xmax>
+      <ymax>950</ymax>
+    </bndbox>
+    <polygon>
+      <x1>400</x1>
+      <y1>583</y1>
+      <x2>462</x2>
+      <y2>647</y2>
+      <x3>427</x3>
+      <y3>688</y3>
+      <x4>415</x4>
+      <y4>754</y4>
+      <x5>266</x5>
+      <y5>920</y5>
+      <x6>228</x6>
+      <y6>950</y6>
+      <x7>124</x7>
+      <y7>938</y7>
+      <x8>270</x8>
+      <y8>798</y8>
+      <x9>360</x9>
+      <y9>697</y9>
+    </polygon>
+  </object>
+</annotation>

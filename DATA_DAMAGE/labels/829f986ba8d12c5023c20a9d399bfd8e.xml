@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/829f986ba8d12c5023c20a9d399bfd8e.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>BRIDGE</structureType>
+  <size>
+    <width>3264</width>
+    <height>2448</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC Deck/slab" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>1231</xmin>
+      <ymin>1109</ymin>
+      <xmax>1291</xmax>
+      <ymax>1130</ymax>
+    </bndbox>
+  </object>
+  <object element="RC Deck/slab" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>1708</xmin>
+      <ymin>1037</ymin>
+      <xmax>1748</xmax>
+      <ymax>1056</ymax>
+    </bndbox>
+  </object>
+  <object element="RC Pier cap" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>1696</xmin>
+      <ymin>1223</ymin>
+      <xmax>1731</xmax>
+      <ymax>1247</ymax>
+    </bndbox>
+  </object>
+</annotation>

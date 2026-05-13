@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/12f10bd51665e99b40081f1b10f2434f.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>3648</width>
+    <height>2736</height>
+    <depth>3</depth>
+  </size>
+  <object element="cladding" type="polygon">
+    <name damage="Crack">Non structural damage</name>
+    <bndbox>
+      <xmin>464</xmin>
+      <ymin>812</ymin>
+      <xmax>3640</xmax>
+      <ymax>2054</ymax>
+    </bndbox>
+    <polygon>
+      <x1>464</x1>
+      <y1>1125</y1>
+      <x2>3606</x2>
+      <y2>2054</y2>
+      <x3>3640</x3>
+      <y3>1611</y3>
+      <x4>862</x4>
+      <y4>812</y4>
+    </polygon>
+  </object>
+</annotation>

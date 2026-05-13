@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/156252b30661d75ba6a8d39c9f15bb50.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>BRIDGE</structureType>
+  <size>
+    <width>4224</width>
+    <height>3168</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC pier" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>1691</xmin>
+      <ymin>2753</ymin>
+      <xmax>2021</xmax>
+      <ymax>2927</ymax>
+    </bndbox>
+  </object>
+  <object element="RC pier" type="rect">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>1585</xmin>
+      <ymin>2197</ymin>
+      <xmax>1721</xmax>
+      <ymax>2671</ymax>
+    </bndbox>
+  </object>
+  <object element="RC pier" type="rect">
+    <name damage="Crushing crack">Crack</name>
+    <bndbox>
+      <xmin>1305</xmin>
+      <ymin>2131</ymin>
+      <xmax>1395</xmax>
+      <ymax>2461</ymax>
+    </bndbox>
+  </object>
+  <object element="RC pier" type="rect">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>1295</xmin>
+      <ymin>1774</ymin>
+      <xmax>1410</xmax>
+      <ymax>2295</ymax>
+    </bndbox>
+  </object>
+  <object element="RC pier" type="rect">
+    <name damage="Crushing crack">Crack</name>
+    <bndbox>
+      <xmin>1108</xmin>
+      <ymin>1866</ymin>
+      <xmax>1221</xmax>
+      <ymax>2387</ymax>
+    </bndbox>
+  </object>
+  <object element="RC pier" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>542</xmin>
+      <ymin>1851</ymin>
+      <xmax>1130</xmax>
+      <ymax>1965</ymax>
+    </bndbox>
+  </object>
+</annotation>

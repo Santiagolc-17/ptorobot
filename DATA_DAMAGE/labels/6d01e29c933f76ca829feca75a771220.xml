@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/6d01e29c933f76ca829feca75a771220.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>CES-ADC_CHURCH</structureType>
+  <size>
+    <width>3456</width>
+    <height>2304</height>
+    <depth>3</depth>
+  </size>
+  <object element="Masonry wall" type="polygon">
+    <name damage="Partial/full collapse">Other damage/mechanism</name>
+    <bndbox>
+      <xmin>1346</xmin>
+      <ymin>557</ymin>
+      <xmax>3444</xmax>
+      <ymax>2048</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1605</x1>
+      <y1>860</y1>
+      <x2>1346</x2>
+      <y2>2048</y2>
+      <x3>3432</x3>
+      <y3>2015</y3>
+      <x4>3444</x4>
+      <y4>557</y4>
+    </polygon>
+  </object>
+  <object element="Gable" type="polygon">
+    <name damage="Partial/full collapse">Other damage/mechanism</name>
+    <bndbox>
+      <xmin>1624</xmin>
+      <ymin>261</ymin>
+      <xmax>3437</xmax>
+      <ymax>815</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1624</x1>
+      <y1>815</y1>
+      <x2>1681</x2>
+      <y2>543</y2>
+      <x3>2380</x3>
+      <y3>265</y3>
+      <x4>3437</x4>
+      <y4>261</y4>
+      <x5>3437</x5>
+      <y5>550</y5>
+    </polygon>
+  </object>
+</annotation>

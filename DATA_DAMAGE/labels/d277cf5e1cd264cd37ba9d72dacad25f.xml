@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/d277cf5e1cd264cd37ba9d72dacad25f.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>BRIDGE</structureType>
+  <size>
+    <width>4272</width>
+    <height>2848</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC arch" type="polygon">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>1193</xmin>
+      <ymin>1041</ymin>
+      <xmax>2979</xmax>
+      <ymax>2234</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1459</x1>
+      <y1>1097</y1>
+      <x2>1193</x2>
+      <y2>2073</y2>
+      <x3>2700</x3>
+      <y3>2234</y3>
+      <x4>2979</x4>
+      <y4>1633</y4>
+      <x5>2926</x5>
+      <y5>1049</y5>
+      <x6>2709</x6>
+      <y6>1041</y6>
+      <x7>2500</x7>
+      <y7>1359</y7>
+    </polygon>
+  </object>
+  <object element="RC arch" type="polygon">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>1228</xmin>
+      <ymin>1019</ymin>
+      <xmax>2953</xmax>
+      <ymax>2221</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1515</x1>
+      <y1>1154</y1>
+      <x2>2500</x2>
+      <y2>1402</y2>
+      <x3>2726</x3>
+      <y3>1019</y3>
+      <x4>2918</x4>
+      <y4>1067</y4>
+      <x5>2953</x5>
+      <y5>1637</y5>
+      <x6>2691</x6>
+      <y6>2221</y6>
+      <x7>1228</x7>
+      <y7>2077</y7>
+    </polygon>
+  </object>
+  <object element="RC arch" type="rect">
+    <name damage="Detachment crack">Crack</name>
+    <bndbox>
+      <xmin>2369</xmin>
+      <ymin>1677</ymin>
+      <xmax>2569</xmax>
+      <ymax>2200</ymax>
+    </bndbox>
+  </object>
+  <object element="RC arch" type="rect">
+    <name damage="Detachment crack">Crack</name>
+    <bndbox>
+      <xmin>2739</xmin>
+      <ymin>1250</ymin>
+      <xmax>3118</xmax>
+      <ymax>1672</ymax>
+    </bndbox>
+  </object>
+  <object element="RC arch" type="rect">
+    <name damage="Detachment crack">Crack</name>
+    <bndbox>
+      <xmin>1524</xmin>
+      <ymin>880</ymin>
+      <xmax>1698</xmax>
+      <ymax>1163</ymax>
+    </bndbox>
+  </object>
+  <object element="RC arch" type="polygon">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>1176</xmin>
+      <ymin>1080</ymin>
+      <xmax>2439</xmax>
+      <ymax>2225</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1176</x1>
+      <y1>2042</y1>
+      <x2>1481</x2>
+      <y2>1080</y2>
+      <x3>2439</x3>
+      <y3>1337</y3>
+      <x4>2378</x4>
+      <y4>2225</y4>
+    </polygon>
+  </object>
+  <object element="RC arch" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>618</xmin>
+      <ymin>13</ymin>
+      <xmax>914</xmax>
+      <ymax>205</ymax>
+    </bndbox>
+  </object>
+  <object element="RC arch" type="rect">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>645</xmin>
+      <ymin>35</ymin>
+      <xmax>863</xmax>
+      <ymax>192</ymax>
+    </bndbox>
+  </object>
+</annotation>

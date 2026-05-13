@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/02b9152d2f4f526ed31893cd026e1b4e.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>3000</width>
+    <height>4000</height>
+    <depth>3</depth>
+  </size>
+  <object element="Masonry wall" type="polygon">
+    <name damage="Masonry spalling">Spalling</name>
+    <bndbox>
+      <xmin>991</xmin>
+      <ymin>1060</ymin>
+      <xmax>1284</xmax>
+      <ymax>1444</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1095</x1>
+      <y1>1060</y1>
+      <x2>991</x2>
+      <y2>1358</y2>
+      <x3>1116</x3>
+      <y3>1444</y3>
+      <x4>1233</x4>
+      <y4>1384</y4>
+      <x5>1284</x5>
+      <y5>1190</y5>
+      <x6>1233</x6>
+      <y6>1065</y6>
+    </polygon>
+  </object>
+  <object element="Plaster" type="polygon">
+    <name damage="Non structural damage">Spalling</name>
+    <bndbox>
+      <xmin>733</xmin>
+      <ymin>526</ymin>
+      <xmax>2108</xmax>
+      <ymax>3366</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1496</x1>
+      <y1>526</y1>
+      <x2>2069</x2>
+      <y2>703</y2>
+      <x3>2030</x3>
+      <y3>1444</y3>
+      <x4>2108</x4>
+      <y4>1703</y4>
+      <x5>2095</x5>
+      <y5>2784</y5>
+      <x6>1543</x6>
+      <y6>3362</y6>
+      <x7>978</x7>
+      <y7>3366</y7>
+      <x8>1026</x8>
+      <y8>2487</y8>
+      <x9>733</x9>
+      <y9>1966</y9>
+      <x10>1030</x10>
+      <y10>741</y10>
+    </polygon>
+  </object>
+  <object element="Masonry pier" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>662</xmin>
+      <ymin>19</ymin>
+      <xmax>1222</xmax>
+      <ymax>894</ymax>
+    </bndbox>
+    <polygon>
+      <x1>814</x1>
+      <y1>19</y1>
+      <x2>662</x2>
+      <y2>476</y2>
+      <x3>772</x3>
+      <y3>675</y3>
+      <x4>1164</x4>
+      <y4>894</y4>
+      <x5>1222</x5>
+      <y5>785</y5>
+      <x6>820</x6>
+      <y6>531</y6>
+      <x7>945</x7>
+      <y7>23</y7>
+    </polygon>
+  </object>
+  <object element="Masonry pier" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>486</xmin>
+      <ymin>1897</ymin>
+      <xmax>939</xmax>
+      <ymax>2820</ymax>
+    </bndbox>
+    <polygon>
+      <x1>486</x1>
+      <y1>2730</y1>
+      <x2>637</x2>
+      <y2>2820</y2>
+      <x3>939</x3>
+      <y3>1994</y3>
+      <x4>810</x4>
+      <y4>1897</y4>
+    </polygon>
+  </object>
+  <object element="Masonry pier" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>2045</xmin>
+      <ymin>1624</ymin>
+      <xmax>2977</xmax>
+      <ymax>3376</ymax>
+    </bndbox>
+    <polygon>
+      <x1>2977</x1>
+      <y1>1746</y1>
+      <x2>2942</x2>
+      <y2>3376</y2>
+      <x3>2045</x3>
+      <y3>2572</y3>
+      <x4>2061</x4>
+      <y4>1624</y4>
+    </polygon>
+  </object>
+  <object element="Masonry pier" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>891</xmin>
+      <ymin>1341</ymin>
+      <xmax>1508</xmax>
+      <ymax>1711</ymax>
+    </bndbox>
+    <polygon>
+      <x1>949</x1>
+      <y1>1341</y1>
+      <x2>1174</x2>
+      <y2>1489</y2>
+      <x3>1508</x3>
+      <y3>1646</y3>
+      <x4>1444</x4>
+      <y4>1711</y4>
+      <x5>891</x5>
+      <y5>1691</y5>
+    </polygon>
+  </object>
+</annotation>

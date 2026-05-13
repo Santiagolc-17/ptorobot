@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/809ee33fa040efd03642566d7a55371e.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>BRIDGE</structureType>
+  <size>
+    <width>4032</width>
+    <height>3024</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC abutment" type="polygon">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>216</xmin>
+      <ymin>1026</ymin>
+      <xmax>576</xmax>
+      <ymax>1920</ymax>
+    </bndbox>
+    <polygon>
+      <x1>237</x1>
+      <y1>1026</y1>
+      <x2>379</x2>
+      <y2>1156</y2>
+      <x3>364</x3>
+      <y3>1322</y3>
+      <x4>576</x4>
+      <y4>1319</y4>
+      <x5>570</x5>
+      <y5>1920</y5>
+      <x6>321</x6>
+      <y6>1828</y6>
+      <x7>216</x7>
+      <y7>1729</y7>
+    </polygon>
+  </object>
+  <object element="RC pier" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>1621</xmin>
+      <ymin>1399</ymin>
+      <xmax>1738</xmax>
+      <ymax>1498</ymax>
+    </bndbox>
+  </object>
+  <object element="RC pier" type="rect">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>1594</xmin>
+      <ymin>1403</ymin>
+      <xmax>1733</xmax>
+      <ymax>1939</ymax>
+    </bndbox>
+  </object>
+  <object element="RC Pier cap" type="rect">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>3520</xmin>
+      <ymin>1483</ymin>
+      <xmax>3603</xmax>
+      <ymax>1594</ymax>
+    </bndbox>
+  </object>
+  <object element="RC Pier cap" type="rect">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>3912</xmin>
+      <ymin>1467</ymin>
+      <xmax>4029</xmax>
+      <ymax>1590</ymax>
+    </bndbox>
+  </object>
+  <object element="RC pier" type="rect">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>3530</xmin>
+      <ymin>1594</ymin>
+      <xmax>3644</xmax>
+      <ymax>2183</ymax>
+    </bndbox>
+  </object>
+  <object element="RC pier" type="rect">
+    <name damage="Leaching">Leaching</name>
+    <bndbox>
+      <xmin>3893</xmin>
+      <ymin>1588</ymin>
+      <xmax>4016</xmax>
+      <ymax>2220</ymax>
+    </bndbox>
+  </object>
+  <object element="RC pier" type="rect">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>3536</xmin>
+      <ymin>1618</ymin>
+      <xmax>3628</xmax>
+      <ymax>2167</ymax>
+    </bndbox>
+  </object>
+</annotation>

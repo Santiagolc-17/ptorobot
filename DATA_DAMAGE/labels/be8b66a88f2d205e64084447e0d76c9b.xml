@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/be8b66a88f2d205e64084447e0d76c9b.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>1944</width>
+    <height>2592</height>
+    <depth>3</depth>
+  </size>
+  <object element="Plaster" type="polygon">
+    <name damage="Debris">Debris</name>
+    <bndbox>
+      <xmin>3</xmin>
+      <ymin>1760</ymin>
+      <xmax>1941</xmax>
+      <ymax>2513</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1941</x1>
+      <y1>2125</y1>
+      <x2>1397</x2>
+      <y2>2216</y2>
+      <x3>1322</x3>
+      <y3>2157</y3>
+      <x4>919</x4>
+      <y4>2275</y4>
+      <x5>81</x5>
+      <y5>1760</y5>
+      <x6>3</x6>
+      <y6>1785</y6>
+      <x7>13</x7>
+      <y7>2132</y7>
+      <x8>503</x8>
+      <y8>2488</y8>
+      <x9>934</x9>
+      <y9>2513</y9>
+      <x10>1547</x10>
+      <y10>2432</y10>
+      <x11>1800</x11>
+      <y11>2510</y11>
+      <x12>1928</x12>
+      <y12>2510</y12>
+    </polygon>
+  </object>
+  <object element="Masonry pier" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>903</xmin>
+      <ymin>16</ymin>
+      <xmax>1938</xmax>
+      <ymax>1926</ymax>
+    </bndbox>
+  </object>
+  <object element="Plaster" type="rect">
+    <name damage="Non structural damage">Spalling</name>
+    <bndbox>
+      <xmin>1531</xmin>
+      <ymin>666</ymin>
+      <xmax>1859</xmax>
+      <ymax>904</ymax>
+    </bndbox>
+  </object>
+  <object element="Plaster" type="rect">
+    <name damage="Non structural damage">Spalling</name>
+    <bndbox>
+      <xmin>1228</xmin>
+      <ymin>1025</ymin>
+      <xmax>1925</xmax>
+      <ymax>1459</ymax>
+    </bndbox>
+  </object>
+  <object element="Plaster" type="rect">
+    <name damage="Non structural damage">Spalling</name>
+    <bndbox>
+      <xmin>916</xmin>
+      <ymin>1356</ymin>
+      <xmax>1213</xmax>
+      <ymax>1915</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry pier" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>523</xmin>
+      <ymin>433</ymin>
+      <xmax>898</xmax>
+      <ymax>1892</ymax>
+    </bndbox>
+  </object>
+  <object element="Plaster" type="rect">
+    <name damage="Non structural damage">Spalling</name>
+    <bndbox>
+      <xmin>531</xmin>
+      <ymin>913</ymin>
+      <xmax>737</xmax>
+      <ymax>1276</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry spandrel" type="polygon">
+    <name damage="Flexural/rocking crack">Crack</name>
+    <bndbox>
+      <xmin>400</xmin>
+      <ymin>821</ymin>
+      <xmax>531</xmax>
+      <ymax>969</ymax>
+    </bndbox>
+    <polygon>
+      <x1>400</x1>
+      <y1>969</y1>
+      <x2>531</x2>
+      <y2>881</y2>
+      <x3>531</x3>
+      <y3>821</y3>
+      <x4>404</x4>
+      <y4>927</y4>
+    </polygon>
+  </object>
+  <object element="Masonry pier" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>269</xmin>
+      <ymin>977</ymin>
+      <xmax>396</xmax>
+      <ymax>1683</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry pier" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>158</xmin>
+      <ymin>1179</ymin>
+      <xmax>210</xmax>
+      <ymax>1571</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry pier" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>96</xmin>
+      <ymin>1267</ymin>
+      <xmax>121</xmax>
+      <ymax>1477</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry spandrel" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>121</xmin>
+      <ymin>1058</ymin>
+      <xmax>172</xmax>
+      <ymax>1193</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry pier" type="rect">
+    <name damage="Partial/full collapse">Other damage/mechanism</name>
+    <bndbox>
+      <xmin>69</xmin>
+      <ymin>1098</ymin>
+      <xmax>108</xmax>
+      <ymax>1500</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry pier" type="rect">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>10</xmin>
+      <ymin>1411</ymin>
+      <xmax>39</xmax>
+      <ymax>1517</ymax>
+    </bndbox>
+  </object>
+  <object element="Masonry spandrel" type="rect">
+    <name damage="Flexural/rocking crack">Crack</name>
+    <bndbox>
+      <xmin>112</xmin>
+      <ymin>1560</ymin>
+      <xmax>165</xmax>
+      <ymax>1595</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/e0b4caceb17edd2a0a56ee8892060981.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>GL-AEDES</structureType>
+  <size>
+    <width>3264</width>
+    <height>2448</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC beam" type="polygon">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>947</xmin>
+      <ymin>989</ymin>
+      <xmax>2532</xmax>
+      <ymax>1500</ymax>
+    </bndbox>
+    <polygon>
+      <x1>2411</x1>
+      <y1>1001</y1>
+      <x2>2512</x2>
+      <y2>1122</y2>
+      <x3>2532</x3>
+      <y3>1413</y3>
+      <x4>2304</x4>
+      <y4>1466</y4>
+      <x5>1722</x5>
+      <y5>1500</y5>
+      <x6>1596</x6>
+      <y6>1464</y6>
+      <x7>1254</x7>
+      <y7>1413</y7>
+      <x8>947</x8>
+      <y8>989</y8>
+      <x9>1077</x9>
+      <y9>1016</y9>
+      <x10>1209</x10>
+      <y10>1108</y10>
+      <x11>1735</x11>
+      <y11>1110</y11>
+      <x12>2015</x12>
+      <y12>1039</y12>
+      <x13>2310</x13>
+      <y13>994</y13>
+    </polygon>
+  </object>
+</annotation>

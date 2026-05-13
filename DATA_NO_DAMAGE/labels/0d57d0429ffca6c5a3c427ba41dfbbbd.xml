@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>no_damage/images</folder>
+  <filename>no_damage/images/0d57d0429ffca6c5a3c427ba41dfbbbd.jpg</filename>
+  <damagePresence>no damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>1200</width>
+    <height>1600</height>
+    <depth>3</depth>
+  </size>
+</annotation>

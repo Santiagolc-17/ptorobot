@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/4f81c3798d158617742a844af7fa4e75.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>BRIDGE</structureType>
+  <size>
+    <width>4224</width>
+    <height>3168</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC Deck/slab" type="polygon">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>238</xmin>
+      <ymin>1497</ymin>
+      <xmax>2079</xmax>
+      <ymax>2152</ymax>
+    </bndbox>
+    <polygon>
+      <x1>238</x1>
+      <y1>1907</y1>
+      <x2>2074</x2>
+      <y2>1497</y2>
+      <x3>2079</x3>
+      <y3>1557</y3>
+      <x4>280</x4>
+      <y4>2152</y4>
+    </polygon>
+  </object>
+  <object element="RC beam" type="polygon">
+    <name damage="Concrete spalling">Spalling</name>
+    <bndbox>
+      <xmin>972</xmin>
+      <ymin>1651</ymin>
+      <xmax>2029</xmax>
+      <ymax>2175</ymax>
+    </bndbox>
+    <polygon>
+      <x1>972</x1>
+      <y1>2086</y1>
+      <x2>2029</x2>
+      <y2>1651</y2>
+      <x3>2027</x3>
+      <y3>1747</y3>
+      <x4>1267</x4>
+      <y4>2175</y4>
+      <x5>986</x5>
+      <y5>2140</y5>
+    </polygon>
+  </object>
+</annotation>

@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/f373017fd401b06617c0a075d8eb056e.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>3264</width>
+    <height>2448</height>
+    <depth>3</depth>
+  </size>
+  <object element="Masonry wall" type="polygon">
+    <name damage="Detachment crack">Crack</name>
+    <bndbox>
+      <xmin>504</xmin>
+      <ymin>1247</ymin>
+      <xmax>741</xmax>
+      <ymax>2219</ymax>
+    </bndbox>
+    <polygon>
+      <x1>566</x1>
+      <y1>2219</y1>
+      <x2>616</x2>
+      <y2>1766</y2>
+      <x3>741</x3>
+      <y3>1370</y3>
+      <x4>672</x4>
+      <y4>1247</y4>
+      <x5>562</x5>
+      <y5>1701</y5>
+      <x6>504</x6>
+      <y6>2203</y6>
+    </polygon>
+  </object>
+  <object element="Masonry wall" type="polygon">
+    <name damage="Shear crack">Crack</name>
+    <bndbox>
+      <xmin>743</xmin>
+      <ymin>907</ymin>
+      <xmax>1444</xmax>
+      <ymax>1442</ymax>
+    </bndbox>
+    <polygon>
+      <x1>743</x1>
+      <y1>1345</y1>
+      <x2>972</x2>
+      <y2>1301</y2>
+      <x3>1119</x3>
+      <y3>1039</y3>
+      <x4>1413</x4>
+      <y4>907</y4>
+      <x5>1444</x5>
+      <y5>1014</y5>
+      <x6>1142</x6>
+      <y6>1139</y6>
+      <x7>1070</x7>
+      <y7>1363</y7>
+      <x8>884</x8>
+      <y8>1442</y8>
+      <x9>766</x9>
+      <y9>1417</y9>
+    </polygon>
+  </object>
+  <object element="Masonry wall" type="polygon">
+    <name damage="Detachment crack">Crack</name>
+    <bndbox>
+      <xmin>2799</xmin>
+      <ymin>855</ymin>
+      <xmax>3210</xmax>
+      <ymax>2416</ymax>
+    </bndbox>
+    <polygon>
+      <x1>3210</x1>
+      <y1>2413</y1>
+      <x2>3138</x2>
+      <y2>2416</y2>
+      <x3>2910</x3>
+      <y3>1155</y3>
+      <x4>2799</x4>
+      <y4>881</y4>
+      <x5>2935</x5>
+      <y5>855</y5>
+      <x6>3101</x6>
+      <y6>1620</y6>
+    </polygon>
+  </object>
+  <object element="Masonry wall" type="polygon">
+    <name damage="Detachment crack">Crack</name>
+    <bndbox>
+      <xmin>920</xmin>
+      <ymin>307</ymin>
+      <xmax>1387</xmax>
+      <ymax>650</ymax>
+    </bndbox>
+    <polygon>
+      <x1>949</x1>
+      <y1>650</y1>
+      <x2>1142</x2>
+      <y2>505</y2>
+      <x3>1387</x3>
+      <y3>373</y3>
+      <x4>1345</x4>
+      <y4>307</y4>
+      <x5>1110</x5>
+      <y5>435</y5>
+      <x6>920</x6>
+      <y6>609</y6>
+    </polygon>
+  </object>
+</annotation>

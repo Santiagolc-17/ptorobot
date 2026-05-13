@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/7b6d7d8c868cc03c379bb56ac4a0f04d.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>2848</width>
+    <height>4272</height>
+    <depth>3</depth>
+  </size>
+  <object element="RC beam" type="polygon">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>1382</xmin>
+      <ymin>502</ymin>
+      <xmax>1986</xmax>
+      <ymax>1936</ymax>
+    </bndbox>
+    <polygon>
+      <x1>1382</x1>
+      <y1>502</y1>
+      <x2>1421</x2>
+      <y2>1936</y2>
+      <x3>1821</x3>
+      <y3>1915</y3>
+      <x4>1986</x4>
+      <y4>523</y4>
+    </polygon>
+  </object>
+  <object element="RC beam" type="polygon">
+    <name damage="Reinforcement oxidized/corroded">Corrosion/Exposed rebar</name>
+    <bndbox>
+      <xmin>278</xmin>
+      <ymin>60</ymin>
+      <xmax>707</xmax>
+      <ymax>662</ymax>
+    </bndbox>
+    <polygon>
+      <x1>278</x1>
+      <y1>100</y1>
+      <x2>399</x2>
+      <y2>662</y2>
+      <x3>707</x3>
+      <y3>615</y3>
+      <x4>612</x4>
+      <y4>60</y4>
+    </polygon>
+  </object>
+</annotation>

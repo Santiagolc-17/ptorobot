@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<annotation>
+  <folder>damage/images</folder>
+  <filename>damage/images/919daa1fdd7d535b644744e82ca8c29e.jpg</filename>
+  <damagePresence>damage</damagePresence>
+  <structureType>AE_BUILDING</structureType>
+  <size>
+    <width>3648</width>
+    <height>2736</height>
+    <depth>3</depth>
+  </size>
+  <object element="Plaster" type="polygon">
+    <name damage="Non structural damage">Spalling</name>
+    <bndbox>
+      <xmin>477</xmin>
+      <ymin>1433</ymin>
+      <xmax>537</xmax>
+      <ymax>1494</ymax>
+    </bndbox>
+    <polygon>
+      <x1>499</x1>
+      <y1>1494</y1>
+      <x2>537</x2>
+      <y2>1484</y2>
+      <x3>522</x3>
+      <y3>1433</y3>
+      <x4>477</x4>
+      <y4>1439</y4>
+    </polygon>
+  </object>
+</annotation>
