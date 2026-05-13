@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 *.log
+runs/
 
 Ultralytics/
 dataset/
@@ -9,4 +10,3 @@ dataset.zip
 Damage/
 NoDamage/
 Data/Damage/
-

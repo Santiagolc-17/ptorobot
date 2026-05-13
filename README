@@ -1,1 +1,170 @@
-Ptorobot
+# Rescue Vision
+
+Clasificador local para saber si una imagen tiene `damage` o `no_damage`.
+
+La idea esta simple: tienes imagenes, las organizas en un dataset de clasificacion, entrenas con Ultralytics/YOLO y luego pruebas el modelo en una UI local.
+
+## Que tengo
+
+```text
+.
+|-- predict_ui.py              # UI web local + endpoint /predict
+|-- prepare_cls_dataset.py     # arma dataset/train y dataset/val
+|-- run_ui.bat                 # arranque rapido en Windows
+|-- run_ui.ps1                 # arranque real de la UI
+|-- requirements.txt           # dependencias minimas
+|-- models/
+|   `-- best.pt                # modelo que usa la UI
+|-- Damage/                    # imagenes originales con dano
+|-- NoDamage/                  # imagenes originales sin dano
+|-- New_Data_damage/           # lote nuevo con dano
+|-- New_Data_no_damage/        # lote nuevo sin dano
+|-- dataset/                   # dataset ya separado para entrenar
+`-- runs/                      # resultados de entrenamiento
+```
+
+Estado actual del dataset:
+
+| Carpeta | Cantidad |
+| --- | ---: |
+| `Damage/images` | 50 |
+| `NoDamage/images` | 50 |
+| `New_Data_damage/images` | 175 |
+| `New_Data_no_damage/images` | 50 |
+| `dataset/train/damage` | 180 |
+| `dataset/train/no_damage` | 80 |
+| `dataset/val/damage` | 45 |
+| `dataset/val/no_damage` | 20 |
+
+## Como operarlo
+
+### 1. Activar entorno
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
+
+Si no existe `.venv`, crealo:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
+### 2. Abrir la UI
+
+La forma chill:
+
+```powershell
+.\run_ui.ps1
+```
+
+O doble click en:
+
+```text
+run_ui.bat
+```
+
+Luego abre:
+
+```text
+http://127.0.0.1:8001
+```
+
+Subes una imagen, le das `Analizar` y el modelo responde `Dano` o `Sin dano` con confianza.
+
+### 3. Usar otro modelo
+
+```powershell
+python .\predict_ui.py --model .\models\best.pt --host 127.0.0.1 --port 8001
+```
+
+## Como preparar datos
+
+El script actual toma:
+
+```text
+Damage/images
+NoDamage/images
+```
+
+y genera:
+
+```text
+dataset/train/damage
+dataset/train/no_damage
+dataset/val/damage
+dataset/val/no_damage
+```
+
+Corre:
+
+```powershell
+python .\prepare_cls_dataset.py
+```
+
+Ojo: el script no borra `dataset/` antes de copiar. Si quieres regenerar limpio, borra `dataset/` primero o ajusta el script para limpiarlo automaticamente.
+
+## Como entrenar
+
+Con Ultralytics instalado:
+
+```powershell
+yolo classify train data=dataset model=yolo11n-cls.pt imgsz=224 epochs=20 name=damage_retrain_224
+```
+
+Cuando termine, copia el mejor peso a `models/best.pt`:
+
+```powershell
+Copy-Item .\runs\classify\damage_retrain_224\weights\best.pt .\models\best.pt
+```
+
+La UI siempre apunta por default a:
+
+```text
+models/best.pt
+```
+
+## Que sigue
+
+- Meter `New_Data_damage` y `New_Data_no_damage` al flujo oficial del dataset.
+- Hacer que `prepare_cls_dataset.py` limpie `dataset/` antes de regenerar.
+- Agregar un script de entrenamiento tipo `train.ps1` para no recordar comandos largos.
+- Guardar metricas importantes en este README: accuracy, loss final, fecha del entrenamiento y modelo base.
+- Probar el modelo con imagenes que no haya visto y guardar ejemplos buenos/malos.
+- Decidir si el objetivo real es clasificacion de imagen completa o deteccion con cajas. Ahorita esto esta armado como clasificacion.
+
+## Que sobra o esta medio suelto
+
+- `dataset.zip`: pesa mucho y ya esta ignorado por git. Mejor dejarlo fuera del repo.
+- `dataset/`: es generado. Bien que este ignorado.
+- `.venv/`, `__pycache__/`, `*.log`: basura local normal. Ya estan ignorados.
+- `runs/`: son resultados de entrenamiento. Conviene ignorarlos o guardar solo los resultados finales que quieras comparar.
+- `Damage/`, `NoDamage/`, `New_Data_*`: son datos fuente. Si el repo va a GitHub, mejor no subirlos si pesan mucho o si tienen datos sensibles.
+- `Random`: archivo suelto sin uso claro. Revisar y borrar si no aporta.
+- `Data/Damage/`: parece una carpeta parcial o vieja. Revisar si sigue siendo necesaria.
+
+## Mejoras buenas
+
+- `requirements.txt` esta demasiado minimo. Hoy solo dice `ultralytics`; podrias fijar versiones para que el proyecto sea reproducible.
+- El UI funciona, pero `predict_ui.py` mezcla backend, frontend HTML y estilo en un solo archivo. Para crecer, separaria `app.py`, `templates/` y `static/`.
+- Agregaria un comando de smoke test: cargar el modelo y predecir una imagen conocida.
+- Agregaria `.gitignore` para `runs/` si no quieres subir entrenamientos completos.
+- Guardaria el dataset original en una estructura unica, por ejemplo:
+
+```text
+data_raw/
+|-- damage/
+`-- no_damage/
+```
+
+y dejaria `dataset/` solo como salida generada.
+
+## Regla mental del repo
+
+```text
+Datos fuente -> prepare_cls_dataset.py -> dataset/ -> train -> models/best.pt -> predict_ui.py
+```
+
+Ese es el camino feliz. Si algo se rompe, revisa en ese orden.
